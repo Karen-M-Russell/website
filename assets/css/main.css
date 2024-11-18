@@ -2814,7 +2814,7 @@ input, select, textarea {
 	}
 
 		.features li {
-			width: 30%;
+			width: calc(33.33333% - 2em);
 			/*width: calc(33.33333% - 2em)*/
 			margin-left: 2em;
 			margin-top: 3em;
@@ -2832,7 +2832,7 @@ input, select, textarea {
 		@media screen and (max-width: 980px) {
 
 			.features li {
-				width: calc(100% - 2em);
+				width: calc(50% - 2em);
 				/*width: calc(50% - 2em);*/
 			}
 
