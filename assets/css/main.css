@@ -2831,7 +2831,7 @@ input, select, textarea {
 		@media screen and (max-width: 980px) {
 
 			.features li {
-				width: 80%;
+				width: calc(100% - 2em);
 				/*width: calc(50% - 2em);*/
 			}
 
