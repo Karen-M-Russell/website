@@ -2418,7 +2418,7 @@ input, select, textarea {
 		border-radius: 8px;
 		display: block;
 		width: 100%;
-		object-fit: scale-down
+		object-fit: scale-down;
 	}		
 
 /* List */
