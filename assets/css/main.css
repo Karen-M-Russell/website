@@ -2416,7 +2416,6 @@ input, select, textarea {
 
 	iframe {
 		border-radius: 8px;
-		display: block;
 		object-fit: contain;
 	}		
 
