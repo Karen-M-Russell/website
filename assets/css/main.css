@@ -2418,7 +2418,6 @@ input, select, textarea {
 		border-radius: 8px;
 		display: block;
 		height: 100%;
-		width: 100%;
 		object-fit: contain;
 	}		
 
